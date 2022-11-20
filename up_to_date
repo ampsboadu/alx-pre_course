@@ -1,0 +1,2 @@
+git fetch origin master:master
+git pull
